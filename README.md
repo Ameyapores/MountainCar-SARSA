@@ -7,7 +7,7 @@ Python Implementation of discrete and Radial basis function SARSA on mountaincar
 
 
 <img align="left" img src="images/Figure_1.png" width="500"> 
-
+</br></br>
 
 *Plot of Cost-to-go function vs Postion, Velocity*
 
@@ -26,7 +26,6 @@ Python Implementation of discrete and Radial basis function SARSA on mountaincar
 *Plot of rewards vs number of episodes*
 
 <img align="left" img src="images/Figure_2.png" width="400"> 
-
-
+</br></br>
 
 *Plot of Cost-to-go function vs Postion, Velocity*
