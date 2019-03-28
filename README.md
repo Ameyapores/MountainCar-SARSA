@@ -4,7 +4,7 @@ Python Implementation of discrete and Radial basis function SARSA on mountaincar
 ## Results
 <figure>
   <figcaption> Episode 0 </figcaption>
-  <img src="images/animated_volcano0.gif" width="425"> <img src="images/animated_volcano12.gif" width="300" title="Episode 12">
+  <img align="left" img src="images/animated_volcano0.gif" width="425"> <img align="right" img src="images/animated_volcano12.gif" width="425" title="Episode 12">
   <figcaption> Episode 12 </figcaption> <figcaption> Episode 100 </figcaption>
   <img src="images/animated_volcano12.gif" width="425" title="Episode 12">
   <figcaption> Episode 100 </figcaption>
