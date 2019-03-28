@@ -1,5 +1,7 @@
 # MountainCar-SARSA
 Python Implementation of discrete and Radial basis function SARSA on mountaincar environment
+1) Discretization: 65 discrete static states.
+2) Radial basis approx: 64 basis given by linear combination of 64 guassians.
 
 ## Results
 ### Discretized SARSA
