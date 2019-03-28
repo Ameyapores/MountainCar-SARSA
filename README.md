@@ -11,7 +11,7 @@ Python Implementation of discrete and Radial basis function SARSA on mountaincar
 
 <figure>
   <img src="images/animated_volcano0.gif" width="400"> 
-  <figcaption> Fig 1: Episode 0 </figcaption>
+  <figcaption style="text-align:center"> Fig 1: Episode 0 </figcaption>
   <img src="images/animated_volcano12.gif" width="400" >
   <figcaption> Fig 2: Episode 12 </figcaption> 
   <img src="images/animated_volcano104.gif" width="400">
