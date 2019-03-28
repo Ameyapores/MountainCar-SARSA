@@ -12,7 +12,7 @@ Python Implementation of discrete and Radial basis function SARSA on mountaincar
 
 
 
-*Plot of Cost-to-go function vs Postion, Velocity*
+<br/> *Plot of Cost-to-go function vs Postion, Velocity*
 
 <figure>
   <img src="images/animated_volcano0.gif" width="400"> 
