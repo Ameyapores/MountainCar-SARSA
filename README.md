@@ -7,7 +7,7 @@ Python Implementation of discrete and Radial basis function SARSA on mountaincar
 Plot of rewards vs number of episodes
 
 
-<img align="left" img src="images/Figure_1.png" width="400"> 
+<img align="left" img src="images/Figure_1.png" width="500"> 
 
 
 
