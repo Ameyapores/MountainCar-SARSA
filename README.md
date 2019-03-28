@@ -27,6 +27,17 @@ Python Implementation of discrete and Radial basis function SARSA on mountaincar
 
 *Plot of Cost-to-go function vs Postion, Velocity*
 
+<figure>
+  <img src="images/AV0.gif" width="400"> 
+  <figcaption> Fig 1: Episode 0 </figcaption>
+  <img src="images/AV250.gif" width="400" >
+  <figcaption> Fig 2: Episode 250 </figcaption> 
+  <img src="images/AV1000.gif" width="400">
+  <figcaption> Fig 3: Episode 1000 </figcaption>
+  <img src="images/AV.gif" width="400">
+  <figcaption> Fig 4: Episode 2000 </figcaption>
+<figure>
+  
 Sources:
 1) Sutton, R.S., 1996. Generalization in reinforcement learning: Successful examples using sparse coarse coding. In Advances in neural information processing systems (pp. 1038-1044).
 2) Sutton, R.S. and Barto, A.G., 1998. Introduction to reinforcement learning (Vol. 135). Cambridge: MIT press.
