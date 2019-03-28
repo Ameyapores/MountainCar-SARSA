@@ -2,6 +2,7 @@
 Python Implementation of discrete and Radial basis function SARSA on mountaincar environment
 
 ## Results
+### Discretized SARSA
 
 <figure>
   <img src="images/animated_volcano0.gif" width="400"> 
